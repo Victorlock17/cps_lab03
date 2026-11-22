@@ -1,5 +1,5 @@
 package pe.edu.tecsup.lab03.controllers;
 
 public class StudentController {
-    // creada por el Responsable
+    // creada por el Responsable y el Colaborador (conflicto resuelto)
 }
